@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_name">Task Name</string>
+    <string name="todo">TODO</string>
+    <string name="hit_button_to_create_a_task" translatable="false">Hit + to create a task.</string>
+</resources>
